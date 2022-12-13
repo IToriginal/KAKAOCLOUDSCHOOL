@@ -1,0 +1,11 @@
+{
+    "posts":[{
+        "id":1,
+        "content":"React",
+        "done":true
+    },{
+        "id":2,
+        "content":"Node",
+        "done":false
+    }]
+}
